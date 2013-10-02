@@ -1,8 +1,8 @@
 # Digging, Debugging
 
-## jQuery Austin 2013
+## HTTQ October 2013
 
-This talk was given by Brian Arnold at jQuery Conference in Austin on September 10th, 2013.
+This talk was given by Brian Arnold at HTTQ in Albuquerque, NM on October 2nd, 2013.
 
 ## Resources
 
